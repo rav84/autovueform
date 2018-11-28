@@ -1,7 +1,7 @@
 {
-  "name": "vueautoform",
-  "version": "1.0.0",
-  "description": "",
+  "name": "@rav84/autoform",
+  "version": "0.0.1",
+  "description": "Automatically creates forms for vuejs.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
