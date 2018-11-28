@@ -1,0 +1,17 @@
+{
+  "name": "vueautoform",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "vue",
+    "vuejs",
+    "form",
+    "auto"
+  ],
+  "author": "rav84",
+  "license": "GPL-3.0"
+}
